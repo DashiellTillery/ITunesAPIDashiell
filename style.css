@@ -1,0 +1,15 @@
+* {
+    font-family: "Roboto Light",sans-serif;
+    font-size: large;
+    padding: 10px;
+    background: skyblue;
+    text-align: center;
+}
+#final {
+    display:none;
+}
+
+button {
+    background: lightsteelblue;
+    color: black;
+}
